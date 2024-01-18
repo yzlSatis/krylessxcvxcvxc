@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+}
+
+.container {
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px; /* Kenar yumuşatması */
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.table th, .table td {
+    color: #333; /* Yazı rengi */
+    font-weight: bold; /* Kalın yazı */
+}
+
+.modal-body {
+    text-align: left;
+}
+.table td button {
+    float: right;
+}
